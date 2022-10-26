@@ -1,4 +1,4 @@
-module github.com/libdns/template
+module github.com/bashopman/libdns_solid
 
 go 1.16
 
